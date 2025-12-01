@@ -11,3 +11,17 @@ Healthcare analytics project developed in Microsoft Fabric for predicting diabet
 - **High Risk Patients:** ~25% of dataset
 
 ## Project Structure
+Microsoft-Fabric/
+├── notebooks/
+│   └── Train and compare models.ipynb
+├── experiments/
+│   ├── automl_results.md
+│   └── README.md
+├── data/
+│   ├── processed/
+│   │   └── README.md
+│   └── README.md
+├── models/
+│   └── README.md
+├── README.md
+└── requirements.txt
